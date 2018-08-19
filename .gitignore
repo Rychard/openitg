@@ -52,3 +52,4 @@ Release-SSE2
 # Windows build artefacts
 src/verstub.cpp
 src/version.bin
+**/.vs
